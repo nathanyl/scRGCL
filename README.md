@@ -19,3 +19,9 @@ python gen_data.py <options> -expr <expr_mat_file> -label <expr_label_file> -net
 ```
 python scRGCL.py -in <inputfile> -out-dir <outputfolder> -bs <batch_size>
 ```
+```
+ Arguments:  
+  inputfile: preprocessed data for model training (npz format)  
+  outputfolder: the folder in which prediction results are saved 
+  batch_size : batch size for model training
+```
