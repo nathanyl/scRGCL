@@ -42,7 +42,7 @@ Arguments:
 Options:
   -q <float> the top q quantile of network edges are used (default: 0.99 for STRING database)
 ```
-## Run scGraph model
+## Run scRGCL model
 ```
 python scRGCL.py -in <inputfile> -out-dir <outputfolder> -bs <batch_size>
 ```
