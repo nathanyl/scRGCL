@@ -54,5 +54,7 @@ python scRGCL.py -in <inputfile> -out-dir <outputfolder> -bs <batch_size>
 ```
 ## Datasets
 dataset.npz: https://drive.google.com/file/d/1UzoOT-Smx6TjeQxzZ-_ws6fEImiTx07e/view?usp=drive_link
+
 STRINGDB.graph.csv.zip: https://drive.google.com/open?id=1B2XMb87PHZ5RCqTx5Bk4Wq8haqZm2RQ1&usp=drive_copy
+
 expr.zip
